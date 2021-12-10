@@ -1,0 +1,6 @@
+
+
+
+export const SET_USER = "SET_USER"
+export const GET_ARTICLES="GET_ARTICLES"
+export const SET_USERLOADING_STATUS = "SET_USERLOADING_STATUS"
